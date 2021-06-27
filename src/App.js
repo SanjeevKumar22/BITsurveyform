@@ -1,24 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import bitlogo from "./bitlogo.png";
+import "./App.css";
+import Form from "./form";
+import Footer from "./footer";
 
 function App() {
   return (
+   
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img src={bitlogo} alt="" srcset="" className="img" />
+      <div className="head">
+        <h1>Bangalore Institute of Technology</h1>
+        <h3>Kr Road,V V Puram,Bangalore-560004</h3>
+      </div>
+      <Form />
+      <Footer />
     </div>
+  
   );
 }
 

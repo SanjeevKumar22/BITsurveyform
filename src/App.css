@@ -1,38 +1,79 @@
-.App {
-  text-align: center;
+.img{
+display: block;
+margin: auto;
+width: 90px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.head{
+text-align: center;
+margin: auto;
+width: 60vw;
+  
+  margin-top: 20px;
+}
+.main{
+  /* border: 2px solid red; */
+  width: 60vw;
+  margin: auto;
+  margin-top: 20px;
+  background-color:bisque;
+  height: 87vh;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.size{
+  font-size: 20px;
 }
+.inp{
+  padding: 8px;
+  width: 40vw;
+  float: right;
+}
+.inp1{
+  padding: 8px;
+  width: 41.3vw;
+  float: right;
+}
+.a{
+  padding:10px;
+}
+.required {
+  color: red;
+}
+.btn{
+ display: block;
+  width: 130px;
+  padding: 5px;
+  border-radius: 25px;
+  background: transparent;
+  cursor: pointer;
+text-align: center;
+background-color: #4169e1 ;
+height: 40px;
+  
+}
+.btn:hover{
+background: transparent;
+  box-shadow: 5px 5px 5px red;
+  transform: translateY(5px);
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+.button{
+margin: auto;
+ width: max-content;
+ margin-top: 80px;
+}
+.btn:focus{
+  outline: none;
+}
+.foot{
+  margin-top: 20px;
+  /* border: 2px solid red; */
+ /* height: 30px; */
+ background-color:#282d32;
+}
+.b{
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  text-align: center;
+  padding: 10px;
 }
