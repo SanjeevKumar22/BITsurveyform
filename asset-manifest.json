@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BITsurveyform/static/css/main.b86b3977.chunk.css",
+    "main.js": "/BITsurveyform/static/js/main.f42e3cba.chunk.js",
+    "main.js.map": "/BITsurveyform/static/js/main.f42e3cba.chunk.js.map",
+    "runtime-main.js": "/BITsurveyform/static/js/runtime-main.d21786c2.js",
+    "runtime-main.js.map": "/BITsurveyform/static/js/runtime-main.d21786c2.js.map",
+    "static/js/2.a126cca8.chunk.js": "/BITsurveyform/static/js/2.a126cca8.chunk.js",
+    "static/js/2.a126cca8.chunk.js.map": "/BITsurveyform/static/js/2.a126cca8.chunk.js.map",
+    "index.html": "/BITsurveyform/index.html",
+    "static/css/main.b86b3977.chunk.css.map": "/BITsurveyform/static/css/main.b86b3977.chunk.css.map",
+    "static/js/2.a126cca8.chunk.js.LICENSE.txt": "/BITsurveyform/static/js/2.a126cca8.chunk.js.LICENSE.txt",
+    "static/media/bitlogo.01fa48bb.png": "/BITsurveyform/static/media/bitlogo.01fa48bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d21786c2.js",
+    "static/js/2.a126cca8.chunk.js",
+    "static/css/main.b86b3977.chunk.css",
+    "static/js/main.f42e3cba.chunk.js"
+  ]
+}
